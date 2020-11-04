@@ -1,1 +1,2 @@
 # machine-learning
+This code is forked from nikola-m/machine-learning github repository. From "Comparing two observed confusion matrices.ipynb" file was extract "Confusion_mat_comparison" class. This class was renamed to "confmatcomp" with python extension to be moule that can be imported with name "machinelearning.py". It is in use in "DusanRandD/Human-Activity-Recognition" repository. It must be on system path to be imported in script. 
